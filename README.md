@@ -1,1 +1,1 @@
-# create a contact form using Google Apps Script and reCAPTCHA
+# Create a Contact Form using Google Apps Script and reCAPTCHA
